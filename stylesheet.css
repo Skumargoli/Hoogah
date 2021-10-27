@@ -150,6 +150,7 @@ body{
     animation-duration: 24s;
     animation-timing-function: steps(23);
     animation-iteration-count: infinite;
+    animation-delay: 300ms;
 
     display: block;
     margin: auto;
